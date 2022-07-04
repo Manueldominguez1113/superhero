@@ -1,9 +1,8 @@
 import java.util.ArrayList;
-
+import characters.*;
 public class main {
     public static void main(String[] args) {
-    intro New = new intro();
-
+ currentChild child = new currentChild();
         // after intro, make 3 scenarios for prototype, ages 5, 10, 15. then reveal the nature of the child at age 20;
         // need minigames instead of choices. make it more 'game' less visual novel. maybe something that uses 50/50, and you help one side. good or bad. encompassing the scenario more.
 
@@ -84,6 +83,15 @@ public class main {
         //
         //
         //
+
+
+        //like the flavor, like the spin of not being in control.
+        //not knowing what they are ahead of time. 
+
+        // maybe lineage where now your the groewnup child raising a new child. affects your parental attitude towards new child. challenge to "go throught thepary" and solve your problems for your kid
+
+        // overall physiology
+        // originzing and making more a videogame.
 
         }
     }
